@@ -7,7 +7,7 @@ cask "stayawake" do
   desc "Menu bar app that keeps the Mac awake, including with the lid closed"
   homepage "https://pratiknayakprojects-dev.github.io/StayAwake/"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "StayAwake.app"
 
