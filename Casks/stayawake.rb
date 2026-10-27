@@ -1,6 +1,6 @@
 cask "stayawake" do
-  version "1.3.2"
-  sha256 "b23cf74a1a84ff3fd65adc1746476a8047e851d4c45bb47fc88f0230df266b8e"
+  version "1.4.0"
+  sha256 "a491175eec028c98a0d1bb4635f7a6c70f6285a34d530f3c693d5d0b3154b5fa"
 
   url "https://github.com/pratiknayakprojects-dev/StayAwake/releases/download/v#{version}/StayAwake.dmg"
   name "StayAwake"
